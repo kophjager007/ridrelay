@@ -1,3 +1,4 @@
+#!/root/.local/pipx/venvs/impacket/bin/python3
 import argparse
 import logging
 import sys
